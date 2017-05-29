@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ks.socketclient_t2.MainActivity">
+<!--
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@color/colorAccent"
+        android:text="Hello World!"
+        android:id="@+id/textViewReciev"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+
+        />
+-->
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="server-ip"
+        android:ems="10"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:id="@+id/addressText" />
+
+    <!--
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Send message"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:id="@+id/messageText"
+        android:layout_below="@+id/portText"
+         />
+    -->
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="port"
+        android:ems="10"
+        android:id="@+id/portText"
+        android:layout_below="@+id/addressText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        />
+
+
+
+    <Button
+        android:text="Send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonConnect"
+        android:layout_below="@+id/portText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@color/colorAccent"
+        android:text="Hello World!"
+        android:id="@+id/textViewRecieve"
+        android:layout_below="@+id/buttonConnect"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp" />
+
+
+</RelativeLayout>
