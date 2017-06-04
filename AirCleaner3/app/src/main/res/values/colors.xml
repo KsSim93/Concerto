@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4374D9</color> <!--앱툴바-->
+    <color name="colorPrimaryDark">#4374D9</color> <!--//시계부분-->
+    <color name="colorAccent">#4374D9</color> <!--//메시지부분-->
+    <color name="colorOnOff">#A1A1A3</color> <!--//OnOff부분-->
+    <color name="colorBgm">#9797C9</color> <!--//bgm관리 부분-->
+    <color name="colorRgb">#01B3B7</color> <!--//rgb관리 부분-->
+
+</resources>
