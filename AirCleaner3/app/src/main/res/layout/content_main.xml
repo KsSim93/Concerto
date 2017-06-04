@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.aircleaner.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="303dp"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="230dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_percent"
+                android:layout_width="230dp"
+                android:layout_height="230dp"
+                android:layout_marginTop="40dp"
+                android:gravity="center"
+                android:text="TextView"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="40dp"
+                android:indeterminate="false"
+                android:max="100"
+                android:progressDrawable="@drawable/circular_progress_bar" />
+            <TextView
+                android:id="@+id/tv_percent1_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="260dp"
+                android:text="미세먼지 농도"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_percent2"
+                android:layout_width="135dp"
+                android:layout_height="135dp"
+                android:layout_marginTop="120dp"
+                android:gravity="center"
+                android:text="TextView"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <ProgressBar
+                android:id="@+id/progressBar2"
+
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="135dp"
+                android:layout_height="135dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="120dp"
+                android:indeterminate="false"
+                android:max="100"
+                android:progressDrawable="@drawable/circular_progress_bar" />
+
+            <TextView
+                android:id="@+id/tv_percent1_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="260dp"
+                android:layout_marginLeft="30dp"
+                android:gravity="center"
+                android:text="가스센서 농도"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorOnOff">
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="33dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/wind"
+                android:layout_marginLeft="7dp"
+                />
+
+            <TextView
+                android:id="@+id/on_off"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:text="공기청정기"
+                android:textColor="#FFFFFF"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/on_off2"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="45dp"
+                android:text="공기청정기가 off 되었습니다."
+                android:textColor="#FFFFFF"
+                android:textSize="13sp" />
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/tv_percent4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginLeft="30dp"
+                    android:gravity="center"
+                    android:text="동작중"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"/>
+
+                <ProgressBar
+                    android:id="@+id/progressBar3"
+                    style="?android:attr/progressBarStyle"
+                    android:layout_width="64dp"
+                    android:layout_height="65dp"
+                    android:layout_marginLeft="13dp"
+                    android:layout_marginTop="117dp" />
+
+
+            </FrameLayout>
+
+
+            <Switch
+                android:id="@+id/switch2"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="95dp"
+                android:layout_marginTop="150dp"
+                android:textColor="#ffffff"
+                android:textOff="Off"
+                android:textOn="On"
+                android:typeface="monospace" />
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorBgm"
+                android:text="  BGM 관리"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:textSize="17sp"
+                android:gravity="center_vertical"
+                android:drawableLeft="@drawable/play_button1_1"
+            />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorRgb"
+                android:drawableLeft="@drawable/rgb2"
+                android:gravity="center_vertical"
+                android:text="  무드등 관리"
+                android:textColor="#FFFFFF"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorBgm"
+                android:drawableLeft="@drawable/microphone1_1"
+                android:gravity="center_vertical"
+                android:text="  음성인식 관리"
+                android:textColor="#FFFFFF"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="360dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/bottom" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+
