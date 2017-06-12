@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:4:1-75
+	android:name
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:4:18-73
+application
+ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\89363cd1b72b09273b0e6fba10a228d43a5ef477\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\78c3f45bf768a25e6ebce44bac172f4c525915e1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\427b98a20b9f89db3887d2939a5331728fa30b29\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\bdd823b4327309139a52fa5c3d9b89a23c93e8a4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\ec0517e2ed6e3f1f3a9cf299523db8c9c104223c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Èñ¿¬\.android\build-cache\fae0fbcbce3a81a34504e762089ab13470cfb8a4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\e21227c2b5ad50d7b53114dad598e6c1a0e1e2d4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\14d776281cc3dfb372108f97b5c1620995e1f2a8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\20903b45a56a8b024a5cc3cdaab6c421797e4bae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\0d96e90e6c49b2390118cae043fc931ff38c6208\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\dad748a5c853a20e75a27f860c498082aba4eee6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\899297d86d056e53d9377d23c2632e8beaf32403\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\79de8d5dcb39a0540853d146aa40154dd6845957\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.aircleaner.MainActivity
+ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.aircleaner.on_off
+ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:23:9-43
+	android:name
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:23:19-41
+activity#com.example.aircleaner.ch_rgb
+ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml:24:19-41
+uses-sdk
+INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\89363cd1b72b09273b0e6fba10a228d43a5ef477\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\78c3f45bf768a25e6ebce44bac172f4c525915e1\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\427b98a20b9f89db3887d2939a5331728fa30b29\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\bdd823b4327309139a52fa5c3d9b89a23c93e8a4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\38037d6469c15c5148f0df14e6e80ebbc56c7974\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\ec0517e2ed6e3f1f3a9cf299523db8c9c104223c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Èñ¿¬\.android\build-cache\fae0fbcbce3a81a34504e762089ab13470cfb8a4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\e21227c2b5ad50d7b53114dad598e6c1a0e1e2d4\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\14d776281cc3dfb372108f97b5c1620995e1f2a8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\20903b45a56a8b024a5cc3cdaab6c421797e4bae\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\0d96e90e6c49b2390118cae043fc931ff38c6208\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\dad748a5c853a20e75a27f860c498082aba4eee6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\899297d86d056e53d9377d23c2632e8beaf32403\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\79de8d5dcb39a0540853d146aa40154dd6845957\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\89363cd1b72b09273b0e6fba10a228d43a5ef477\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_SDK\Android\AirCleaner3\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\89363cd1b72b09273b0e6fba10a228d43a5ef477\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\78c3f45bf768a25e6ebce44bac172f4c525915e1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\427b98a20b9f89db3887d2939a5331728fa30b29\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\bdd823b4327309139a52fa5c3d9b89a23c93e8a4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\38037d6469c15c5148f0df14e6e80ebbc56c7974\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\ec0517e2ed6e3f1f3a9cf299523db8c9c104223c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\e21227c2b5ad50d7b53114dad598e6c1a0e1e2d4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\14d776281cc3dfb372108f97b5c1620995e1f2a8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\20903b45a56a8b024a5cc3cdaab6c421797e4bae\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\0d96e90e6c49b2390118cae043fc931ff38c6208\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\dad748a5c853a20e75a27f860c498082aba4eee6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\899297d86d056e53d9377d23c2632e8beaf32403\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\79de8d5dcb39a0540853d146aa40154dd6845957\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\89363cd1b72b09273b0e6fba10a228d43a5ef477\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Èñ¿¬\.android\build-cache\89363cd1b72b09273b0e6fba10a228d43a5ef477\output\AndroidManifest.xml:26:9-47

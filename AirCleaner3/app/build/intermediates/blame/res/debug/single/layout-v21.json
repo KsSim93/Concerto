@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
