@@ -8,12 +8,24 @@
         "source": "C:\\Users\\희연\\.android\\build-cache\\89363cd1b72b09273b0e6fba10a228d43a5ef477\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_out_activity.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
     },
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
@@ -30,6 +42,10 @@
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
     },
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",

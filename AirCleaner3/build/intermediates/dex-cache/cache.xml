@@ -11,13 +11,13 @@
         <dex dex="E:\Android_SDK\Android\AirCleaner3\app\build\intermediates\pre-dexed\debug\classes_1638c27f78109fe905bcc90ea6a382d364ff0070.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\Android_SDK\Android\AirCleaner3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\희연\.android\build-cache\7bdc18cb7f521af914966e0e3c13e503e069d3fd\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="bc30678064b2bf65ffd409e83f0c5cb4a2e8e8ed">
-        <dex dex="E:\Android_SDK\Android\AirCleaner3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9e086cb986ad005c33c6624d3516c67583c03fe8\classes.dex" />
+        sha1="1e82f4dd0ec0adfbd0592a964c560662e856f3d8">
+        <dex dex="E:\Android_SDK\Android\AirCleaner3\app\build\intermediates\pre-dexed\debug\classes_7af5c994261fccf42dc3e837fc324cbfedbec41f.jar" />
     </item>
     <item
         is-multidex="true"
@@ -25,8 +25,35 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="E:\Android_SDK\Android\AirCleaner3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0f0ec9459ca605149d43c24e5379de7b4d792929\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\희연\.android\build-cache\8c261ab07d896b9294918dd65c0893df8ebc95af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="E:\Android_SDK\Android\AirCleaner3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0ed1501e579628744527b18fc2812fc4c207681\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_SDK\Android\AirCleaner3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6fc538638da3e10107f33ad396a7bce96a2132a8">
+        <dex dex="E:\Android_SDK\Android\AirCleaner3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9e086cb986ad005c33c6624d3516c67583c03fe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\희연\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="E:\Android_SDK\Android\AirCleaner3\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.2_0569e99c8b3a64224ceb43c846a1f0fdca22f3c2.jar" />
     </item>
 
 </items>

@@ -11,14 +11,16 @@ import android.widget.ListView;
  */
 
 public class on_off extends Activity {
+
+    ListView listview;
+    ListViewAdapter adapter;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.setting_on_off);
 
 
-        ListView listview;
-        ListViewAdapter adapter;
 
         // Adapter 생성
         adapter = new ListViewAdapter();
@@ -26,6 +28,7 @@ public class on_off extends Activity {
         // 리스트뷰 참조 및 Adapter달기
         listview = (ListView) findViewById(R.id.listview1);
         listview.setAdapter(adapter);
+
 
         // 첫 번째 아이템 추가.
         adapter.addItem(ContextCompat.getDrawable(this, R.drawable.ic_menu_music2), "Music");
@@ -35,4 +38,10 @@ public class on_off extends Activity {
         adapter.addItem(ContextCompat.getDrawable(this, R.drawable.ic_menu_rgb2), "RGB");
 
     } // end of onCreate
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        adapter.notifyDataSetChanged();
+    }
 } // end of class
