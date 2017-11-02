@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -40,12 +39,13 @@
                 android:indeterminate="false"
                 android:max="100"
                 android:progressDrawable="@drawable/circular_progress_bar" />
+
             <TextView
                 android:id="@+id/tv_percent1_1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
                 android:layout_marginTop="260dp"
+                android:gravity="center"
                 android:text="미세먼지 농도"
                 android:textSize="15sp"
                 android:textStyle="bold" />
@@ -82,8 +82,8 @@
                 android:id="@+id/tv_percent1_2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="260dp"
                 android:layout_marginLeft="30dp"
+                android:layout_marginTop="260dp"
                 android:gravity="center"
                 android:text="가스센서 농도"
                 android:textSize="15sp"
@@ -91,7 +91,6 @@
         </FrameLayout>
 
     </LinearLayout>
-
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -103,13 +102,13 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@color/colorOnOff">
+
             <ImageView
                 android:layout_width="20dp"
                 android:layout_height="33dp"
-                android:layout_marginTop="15dp"
-                android:src="@drawable/wind"
                 android:layout_marginLeft="7dp"
-                />
+                android:layout_marginTop="15dp"
+                android:src="@drawable/wind" />
 
             <TextView
                 android:id="@+id/on_off"
@@ -128,24 +127,24 @@
                 android:layout_height="30dp"
                 android:layout_marginLeft="30dp"
                 android:layout_marginTop="45dp"
-                android:text="공기청정기가 off 되었습니다."
                 android:textColor="#FFFFFF"
                 android:textSize="13sp" />
 
             <FrameLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
+
                 <TextView
                     android:id="@+id/tv_percent4"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="140dp"
                     android:layout_marginLeft="30dp"
+                    android:layout_marginTop="140dp"
                     android:gravity="center"
-                    android:text="동작중"
+                    android:text=""
+                    android:textColor="#ffffff"
                     android:textSize="14sp"
-                    android:textStyle="bold"
-                    android:textColor="#ffffff"/>
+                    android:textStyle="bold" />
 
                 <ProgressBar
                     android:id="@+id/progressBar3"
@@ -155,9 +154,7 @@
                     android:layout_marginLeft="13dp"
                     android:layout_marginTop="117dp" />
 
-
             </FrameLayout>
-
 
             <Switch
                 android:id="@+id/switch2"
@@ -184,13 +181,12 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@color/colorBgm"
+                android:drawableLeft="@drawable/play_button1_1"
+                android:gravity="center_vertical"
                 android:text="  BGM 관리"
                 android:textColor="#FFFFFF"
-                android:textStyle="bold"
                 android:textSize="17sp"
-                android:gravity="center_vertical"
-                android:drawableLeft="@drawable/play_button1_1"
-            />
+                android:textStyle="bold" />
 
             <Button
                 android:id="@+id/button2"
@@ -218,9 +214,7 @@
                 android:textSize="17sp"
                 android:textStyle="bold" />
 
-
         </LinearLayout>
-
 
     </LinearLayout>
 
@@ -238,7 +232,3 @@
     </LinearLayout>
 
 </LinearLayout>
-
-
-
-

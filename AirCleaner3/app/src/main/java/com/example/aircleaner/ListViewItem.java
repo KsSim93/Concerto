@@ -9,6 +9,7 @@ public class ListViewItem {
     private Drawable iconDrawable ;
     private String titleStr ;
     private String descStr ;
+    private Boolean swStr;
 
     public void setIcon(Drawable icon) {
         iconDrawable = icon ;
@@ -28,5 +29,11 @@ public class ListViewItem {
     }
     public String getDesc() {
         return this.descStr ;
+    }
+    public void setSwitch(boolean swStr){
+        this.swStr = swStr;
+    }
+    public Boolean getSwitch(){
+        return swStr;
     }
 }

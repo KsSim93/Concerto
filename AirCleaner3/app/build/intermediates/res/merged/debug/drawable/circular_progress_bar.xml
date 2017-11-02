@@ -19,14 +19,15 @@
     </item>
     <item android:id="@android:id/progress">
         <rotate
-            android:fromDegrees="120"
-            android:toDegrees="120">
+            android:fromDegrees="270"
+            android:toDegrees="270">
             <shape
                 android:innerRadiusRatio="3"
                 android:shape="ring"
                 android:angle="0"
                 android:type="sweep"
-                android:thicknessRatio="10.0">
+                android:thicknessRatio="10.0"
+                style="android: attr/progressBarStyleHorizontal">
                 <solid android:color="#050099"/> <!--그래프 %색-->
             </shape>
         </rotate>

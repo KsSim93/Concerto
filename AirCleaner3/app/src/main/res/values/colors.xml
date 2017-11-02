@@ -7,4 +7,11 @@
     <color name="colorBgm">#9797C9</color> <!--//bgm관리 부분-->
     <color name="colorRgb">#01B3B7</color> <!--//rgb관리 부분-->
 
+
+    <color name="blue">#050099</color> <!--//progressbar 좋음-->
+    <color name="red">#980000</color> <!--//progressbar 매우나쁨-->
+    <color name="green">#2F9D27</color> <!--//progressbar 보통-->
+    <color name="yellow">#FFBB00</color> <!--//progressbar 나쁨-->
+
+
 </resources>
