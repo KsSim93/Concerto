@@ -12,8 +12,16 @@
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playlistview_item.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\playlistview_item.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playlist.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\playlist.xml"
     },
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
@@ -32,6 +40,10 @@
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_playlist.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\setting_playlist.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\89363cd1b72b09273b0e6fba10a228d43a5ef477\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
@@ -40,28 +52,44 @@
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\희연\\.android\\build-cache\\89363cd1b72b09273b0e6fba10a228d43a5ef477\\output\\res\\layout\\design_navigation_item_subheader.xml"
-    },
-    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\89363cd1b72b09273b0e6fba10a228d43a5ef477\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sample_activity3.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\fragment_sample_activity3.xml"
     },
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linechart.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\activity_linechart.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\voice.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\voice.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\89363cd1b72b09273b0e6fba10a228d43a5ef477\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\activity_main2.xml"
     },
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -88,8 +116,16 @@
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_search_view.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_preview.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\7bdc18cb7f521af914966e0e3c13e503e069d3fd\\output\\res\\layout\\color_preview.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\89363cd1b72b09273b0e6fba10a228d43a5ef477\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\activity_player.xml"
     },
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -112,8 +148,16 @@
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_combined.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\activity_combined.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sample2.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\activity_sample2.xml"
     },
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -128,12 +172,28 @@
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sample3.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\activity_sample3.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_edit.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\7bdc18cb7f521af914966e0e3c13e503e069d3fd\\output\\res\\layout\\picker_edit.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
         "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_barchart.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\activity_barchart.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sample.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\activity_sample.xml"
     },
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
@@ -188,6 +248,10 @@
         "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_widget.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\7bdc18cb7f521af914966e0e3c13e503e069d3fd\\output\\res\\layout\\color_widget.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
@@ -198,6 +262,10 @@
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item2.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\listview_item2.xml"
     },
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
@@ -236,6 +304,14 @@
         "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\setting_on_off.xml"
     },
     {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_marker_view.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\custom_marker_view.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
@@ -246,5 +322,9 @@
     {
         "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\희연\\.android\\build-cache\\78c3f45bf768a25e6ebce44bac172f4c525915e1\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_SDK\\Android\\AirCleaner3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "C:\\Users\\희연\\.android\\build-cache\\7bdc18cb7f521af914966e0e3c13e503e069d3fd\\output\\res\\layout\\color_selector.xml"
     }
 ]
